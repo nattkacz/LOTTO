@@ -21,5 +21,5 @@ A simple lottery game where the user selects six numbers between 1 and 49. The p
 ## Code Details
 
 - **get_unique_numbers()** - Collects six unique numbers from the user and validates input.
-- **generate_random_numbers()** - Generates a random list of six numbers.
+- **generate_random_numbers()** - Generates a random set of six numbers.
 - **check()** - Compares user input with lottery numbers to identify matches.
